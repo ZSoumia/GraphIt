@@ -19,7 +19,3 @@ A java Implementation of  graph theory algorithms .
 ## Used Technologies : <br>
 - JavaFX .<br>
 - Maven .<br>
-
-## Authors and contributors : <br>
-- El Mestari Soumia Zohra <br> 
-- Mouley Slimane Sidi Mohamed <br>
